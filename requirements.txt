@@ -1,0 +1,7 @@
+pymupdf==1.25.3
+opencv-python-headless
+pytesseract
+shapely
+ezdxf
+typer[all]
+networkx
